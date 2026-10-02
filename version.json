@@ -1,0 +1,7 @@
+{
+  "versionName": "1.1.0",
+  "versionCode": 2,
+  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/v1.1.0/app-release.apk",
+  "changelog": "Fixed WebView player buffering on slow connections. Added Bravo source subtitle support.",
+  "mandatory": false
+}
