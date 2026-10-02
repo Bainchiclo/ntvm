@@ -1,7 +1,7 @@
 {
   "versionName": "1.6.0",
   "versionCode": 6,
-  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.5.0/app-release.apk",  
+  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.6.0/app-release.apk",  
   "changelog": "Added Previous/Next buttons to ALPHA, ZURU4K, and XRAY players. Added Vmx Cat, Added Tagalog Movies Source; Fixed Vmax Nav ",
   "mandatory": false
 }
