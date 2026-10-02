@@ -2,6 +2,6 @@
 
 #EXTINF:-1 group-title="Cable TV [Sports]",badwa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://noodstream.asia/video/1473592/
-#EXTVLCOPT:http-referrer=https://noodstream.asia/video/1473592/
-https://noodstream.asia/video/get_video.php?video=1473592&host=https%3A%2F%2Fslavecdn02.noodstream.asia&md5=XkS9yb49HDiVHEzhn7gf5A&expires=1790918189
+#EXTVLCOPT:http-origin=https://app.blasttv.ph
+#EXTVLCOPT:http-referrer=https://app.blasttv.ph/
+https://dice-live-ap.akamaized.net/hls/live/2102488/220944-333218/playlist.m3u8?hdnea=st=1790936514~exp=1790936554~acl=*hls/live/2102488/220944-333218/*!*hls/live/2102488-b/220944-333218-b/*~id=5bb970b8-37aa-4856-95d6-542e7995b21d~data=dWlkPW5GVlZmRHw5ZWMxMmRjNS0zN2I4LTQwMjktYjFhMi0wMGM3NTE1MWFiYWQmc3JjPWRnZSZpcD0xNDMuNDQuMTg1LjY4JmV4cD0xNzkxMDIyOTU0JmVpZD0yMjA5NDQmY2lkPWRjZS50YXBnbyZvaWQ9MzI1JnR5cGU9TElWRQ~hmac=774fc32e10fccab283169ade93ca18a9b7a7cf878a5a60d3eb4da6ba91672a7a&opId=325&cc=PH&ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1NC4wLjAuMCBTYWZhcmkvNTM3LjM2&sd=PH-DAVAO+REGION
