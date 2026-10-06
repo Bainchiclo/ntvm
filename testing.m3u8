@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Cable TV [Sports]",badwa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://vidrock.to
-#EXTVLCOPT:http-referrer=https://vidrock.to/
-https://cdn.boomchick.org/movie/X0tYr0UtNQlafD47a34sIijkaipL1M9-X8EPi-_VGa8.unV0U8At/bigtits.m3u8
-
 #EXTINF:-1 group-title="Asian Games Aichi-Nagoya 2026" tvg-id="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ASG26.png",Astro 30 - ASG26 | Channel 795
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -96,3 +90,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbn
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=55eddd1e157e4c3b830866e4679e7032:525030e984567ba8df0af80660952368
 https://abslive.akamaized.net/dash/live/2027618/c1ph/manifest.mpd
+
+#EXTINF:-1 group-title="Cable TV [Sports]",badwa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://vidrock.to
+#EXTVLCOPT:http-referrer=https://vidrock.to/
+https://cdn.boomchick.org/movie/X0tYr0UtNQlafD47a34sIijkaipL1M9-X8EPi-_VGa8.unV0U8At/bigtits.m3u8
