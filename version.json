@@ -1,7 +1,7 @@
 {
-  "versionName": "1.11.0",
-  "versionCode": 11,
-  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.11.0/app-release.apk",  
-  "changelog": "Integrated Cable TV and NBA Live categories.\n\nAdded Zulu 4K source.",
+  "versionName": "1.12.0",
+  "versionCode": 12,
+  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.12.0/app-release.apk",  
+  "changelog": "Integrated Cable TV and NBA Live categories.\n\nAdded Zulu 4K source.\n\nFixed Cable Tv Nav",
   "mandatory": false
 }
