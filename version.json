@@ -1,7 +1,7 @@
 {
-  "versionName": "1.13.0",
-  "versionCode": 13,
-  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.13.0/app-release.apk",  
-  "changelog": "Fixed Cable Tv Nav",
+  "versionName": "1.14.0",
+  "versionCode": 14,
+  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.14.0/app-release.apk",  
+  "changelog": "Fixed NBA TV 20 seconds stack and FullScreen Android Phone",
   "mandatory": false
 }
