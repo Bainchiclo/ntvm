@@ -1,7 +1,7 @@
 {
-  "versionName": "1.14.0",
-  "versionCode": 14,
-  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.14.0/app-release.apk",  
-  "changelog": "Fixed the 20-second stacking issue in NBA TV and improved fullscreen mode on Android phones",
+  "versionName": "1.15.0",
+  "versionCode": 15,
+  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.15.0/app-release.apk",  
+  "changelog": "Fixed .ts stream playback for Cable TV channels, including ESPN.",
   "mandatory": false
 }
