@@ -1,7 +1,7 @@
 {
-  "versionName": "1.15.0",
-  "versionCode": 15,
-  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.15.0/app-release.apk",  
-  "changelog": "Fixed .ts stream playback for Cable TV channels, including ESPN.",
+  "versionName": "1.16.0",
+  "versionCode": 16,
+  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.16.0/app-release.apk",  
+  "changelog": "1.) Added Sports TV.\n\n2.) Fixed Cable TV subtitles.\n\nNote: When opening a Sports TV stream, press Back once, then press Enter.",
   "mandatory": false
 }
