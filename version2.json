@@ -1,7 +1,7 @@
 {
-  "versionName": "1.17.0",
-  "versionCode": 17,
-  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.17.0/app-release.apk",  
-  "changelog": "1.) Fixed the NBA Live Player automatically turning off the display on Android phones and tablets.\n\n2.) Added a new NBA Replay TV category.",
+  "versionName": "1.19.0",
+  "versionCode": 19,
+  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.19.0/app-release.apk",  
+  "changelog": "1.) Fixed the NBA Live Player automatically turning off the display on Android phones and tablets.\n\n2.) Added a new NBA Replay TV category.\n\n3.) Added aspect ratio cable tv",
   "mandatory": false
 }
