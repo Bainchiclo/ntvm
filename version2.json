@@ -1,7 +1,7 @@
 {
-  "versionName": "1.22.0",
-  "versionCode": 22,
-  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.22.0/app-release.apk",  
+  "versionName": "1.23.0",
+  "versionCode": 23,
+  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.23.0/app-release.apk",  
   "changelog": "Added Sports [S2] and Added streaming platforms catalogs for Google TV",
   "mandatory": false
 }
