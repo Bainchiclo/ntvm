@@ -1,7 +1,7 @@
 {
-  "versionName": "1.23.0",
-  "versionCode": 23,
-  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.23.0/app-release.apk",  
-  "changelog": "Added Sports [S2] and Added streaming platforms catalogs for Google TV",
+  "versionName": "1.24.0",
+  "versionCode": 24,
+  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.24.0/app-release.apk",  
+  "changelog": "Added Kisskh Source and Anime TV",
   "mandatory": false
 }
