@@ -1,7 +1,7 @@
 {
-  "versionName": "1.27.0",
-  "versionCode": 27,
-  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.27.0/app-release.apk",
-  "changelog": "Fixed NBA [N2] chatbox audio issue.\n\nUpdated the top navigation bar for Android phones and tablets.\n\nFixed Expiration Status",
+  "versionName": "1.28.0",
+  "versionCode": 28,
+  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.28.0/app-release.apk",
+  "changelog": "Added Sports [S3] and Sports [S4] for more sports streaming sources",
   "mandatory": false
 }
