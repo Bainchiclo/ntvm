@@ -2,6 +2,6 @@
   "versionName": "1.30.0",
   "versionCode": 30,
   "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.30.0/app-release.apk",
-  "changelog": "Added Chat TV (Adults Only)\nRemoved the top title bar from the NBA REPLAY player\nEnabled full-screen playback for Anime TV on Android phones\nFixed an issue where the Cable TV playlist was lost when switching to another app",
+  "changelog": "Added Chat TV (Adults Only)\n\nRemoved the top title bar from the NBA REPLAY player\n\nEnabled full-screen playback for Anime TV on Android phones\n\nFixed an issue where the Cable TV playlist was lost when switching to another app",
   "mandatory": false
 }
