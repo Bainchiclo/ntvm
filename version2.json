@@ -1,7 +1,7 @@
 {
   "versionName": "1.32.0",
   "versionCode": 32,
-  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.0.0/app-release.apk",
+  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.32.0/app-release.apk",
   "changelog": "Fixed NBA [N1]\n\nAdded security protection for Porn TV and Chat TV\n\nAdded an option to select the default category when opening the app (e.g., Cable TV, NBA, Sports TV, etc.)",
   "mandatory": false
 }
