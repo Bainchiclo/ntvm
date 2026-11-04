@@ -1,7 +1,7 @@
 {
-  "versionName": "1.34.0",
-  "versionCode": 34,
-  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.34.0/app-release.apk",
-  "changelog": "Added Kids Catalog\n\nFixed the New Filipino Movies Catalog\n\nUpdated the Details Screen\n\nComing Soon: Short Drama",
+  "versionName": "1.35.0",
+  "versionCode": 35,
+  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.35.0/app-release.apk",
+  "changelog": "Added Short TV\n\nFixed the Hotel Source",
   "mandatory": false
 }
