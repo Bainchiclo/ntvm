@@ -1,7 +1,7 @@
 {
-  "versionName": "1.39.0",
-  "versionCode": 39,
-  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.39.0/app-release.apk",
-  "changelog": "Added Sports [S5] (BETA)\n\nFixed NBA [N1]\n\nAdded HOSTEL and STELLAR [4k] as Movie and TV Series Sources",
+  "versionName": "1.41.0",
+  "versionCode": 41,
+  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.41.0/app-release.apk",
+  "changelog": "Added Sports [S6] with 24/7 Channels\n\nFixed Pop-Up Ads in Sports [S5]",
   "mandatory": false
 }
