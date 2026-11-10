@@ -1,7 +1,7 @@
 {
-  "versionName": "1.41.0",
-  "versionCode": 41,
-  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.41.0/app-release.apk",
-  "changelog": "Added Sports [S6] with 24/7 Channels\n\nFixed Pop-Up Ads in Sports [S5]",
+  "versionName": "1.42.0",
+  "versionCode": 42,
+  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.42.0/app-release.apk",
+  "changelog": "Added Bolt [FAST stream] as a source for Movies and TV Series\n\nAdded Sports [S6] with 24/7 Channels\n\nFixed Pop-Up Ads in Sports [S5]",
   "mandatory": false
 }
