@@ -1,7 +1,7 @@
 {
-  "versionName": "1.42.0",
-  "versionCode": 42,
-  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.42.0/app-release.apk",
-  "changelog": "Added Bolt [FAST stream] as a source for Movies and TV Series\n\nAdded Sports [S6] with 24/7 Channels\n\nFixed Pop-Up Ads in Sports [S5]",
+  "versionName": "1.43.0",
+  "versionCode": 43,
+  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.43.0/app-release.apk",
+  "changelog": "Removed Xray Source\n\nFixed Stellar 4K Source for Google TV\n\nAdded Moviepire Source",
   "mandatory": false
 }
