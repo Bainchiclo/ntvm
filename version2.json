@@ -1,7 +1,7 @@
 {
-  "versionName": "1.48.0",
-  "versionCode": 48,
-  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.48.0/app-release.apk",
-  "changelog": "Updated CHAT TV for faster catalog loading and improved player performance",
+  "versionName": "1.50.0",
+  "versionCode": 50,
+  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.50.0/app-release.apk",
+  "changelog": "Updated Catalogs for Smoother Navigation Across All Categories\n\nAdded Kisskh TV as an Alternative Source for Main Movies and TV Series Catalogs\n\nFixed VMX - Hide and Lock Settings",
   "mandatory": false
 }
