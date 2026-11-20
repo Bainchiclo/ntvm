@@ -1,7 +1,7 @@
 {
-  "versionName": "1.52.0",
-  "versionCode": 52,
-  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.52.0/app-release.apk",
-  "changelog": "Added PINOY TV as an alternative source for Tagalog Movies\n\nAdded PBB LIVE",
+  "versionName": "1.54.0",
+  "versionCode": 54,
+  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.54.0/app-release.apk",
+  "changelog": "Added Pinay X Tab under PINOY TV\n\nAdded Vidmoly and Upcloud as Alternative Sources for Movies and TV Series\n\nFixed Cursor Navigation for Nick TV Movies and TV Series",
   "mandatory": false
 }
