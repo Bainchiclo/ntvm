@@ -1,7 +1,7 @@
 {
-  "versionName": "1.54.0",
-  "versionCode": 54,
-  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.54.0/app-release.apk",
-  "changelog": "Added Pinay X Tab under PINOY TV\n\nAdded Vidmoly and Upcloud as Alternative Sources for Movies and TV Series\n\nFixed Cursor Navigation for Nick TV Movies and TV Series",
+  "versionName": "1.57.0",
+  "versionCode": 57,
+  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.57.0/app-release.apk",
+  "changelog": "Added Short TV 3 Alternative Sources\n\nImproved and Fixed Player for Short TV 2 and Short TV 3\n\nAdded Aspect Ratio Settings for Cable TV on Android Phones and Tablets",
   "mandatory": false
 }
