@@ -1,7 +1,7 @@
 {
-  "versionName": "1.57.0",
-  "versionCode": 57,
-  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.57.0/app-release.apk",
-  "changelog": "Added Short TV 3 Alternative Sources\n\nImproved and Fixed Player for Short TV 2 and Short TV 3\n\nAdded Aspect Ratio Settings for Cable TV on Android Phones and Tablets",
+  "versionName": "1.58.0",
+  "versionCode": 58,
+  "apkUrl": "https://github.com/Bainchiclo/ntvm/releases/download/1.58.0/app-release.apk",
+  "changelog": "Added PBB Extra Replay for replay viewing\n\nAdded PBB Extra Live for live coverage\n\nAdded Profile feature for a more personalized app experience",
   "mandatory": false
 }
